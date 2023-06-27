@@ -27,6 +27,6 @@
     "vue-template-compiler": "^2.6.12"
   },
   "dependencies": {
-    "tui-image-editor": "^3.10.0"
+    "tui-image-editor": "^3.15.3"
   }
 }
